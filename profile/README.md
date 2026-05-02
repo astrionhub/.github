@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="profile/logo.png" alt="AstrionHub" width="180">
+
 ### AstrionHub
 
 Digital infrastructure and development. Zürich.
@@ -8,5 +12,7 @@ Public tools we maintain:
 
 - [anchor](https://github.com/fr-enterprises/anchor): local AI cost layer
 - [skl](https://github.com/f4rkh4d/skl): package manager for AI agent skills
+
+</div>
 
 Contact: [hello@frkhd.com](mailto:hello@frkhd.com) · [astrionhub.com](https://astrionhub.com)
