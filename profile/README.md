@@ -6,7 +6,7 @@ We design, build, and run software for small teams that ship products. Web apps,
 
 Public tools we maintain:
 
-- [anchor](https://github.com/fr-enterprises/anchor) — local AI cost layer
-- [skl](https://github.com/f4rkh4d/skl) — package manager for AI agent skills
+- [anchor](https://github.com/fr-enterprises/anchor): local AI cost layer
+- [skl](https://github.com/f4rkh4d/skl): package manager for AI agent skills
 
 Contact: [hello@frkhd.com](mailto:hello@frkhd.com) · [astrionhub.com](https://astrionhub.com)
