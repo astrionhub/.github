@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/astrionhub/.github/raw/main/profile/logo.jpg" alt="AstrionHub" width="180">
-
 ### AstrionHub
 
 Digital infrastructure and development. Zürich.
