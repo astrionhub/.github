@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/logo.jpg" alt="AstrionHub" width="180">
+<img src="https://github.com/astrionhub/.github/raw/main/profile/logo.jpg" alt="AstrionHub" width="180">
 
 ### AstrionHub
 
